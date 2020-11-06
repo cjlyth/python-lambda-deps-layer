@@ -1,8 +1,8 @@
 {
-  "name": "python-lambda-venv-layer",
+  "name": "python-lambda-deps-layer",
   "version": "0.1.0",
   "bin": {
-    "python-lambda-venv-layer": "bin/python-lambda-venv-layer.js"
+    "python-lambda-deps-layer": "bin/python-lambda-deps-layer.js"
   },
   "scripts": {
     "build": "tsc",
